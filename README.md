@@ -1,0 +1,1 @@
+### Utilized hotel booking data to predict cancellations and identified key cancellation drivers. Handled missing values, processed correlation analysis, feature engineering and label encoding. The random Forest model achieved 0.95 accuracy score 
